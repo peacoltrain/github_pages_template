@@ -19,7 +19,7 @@ Undergrad at BYU majoring in Computer Science with Machine learning emphasis. Al
 ## Skills & Interests
 
 ### Technical Skill
-- **Programming**: Python, C++, R, HTML
+- **Programming**: Python, C++, SQL, R,HTML
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, Pytorch
