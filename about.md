@@ -4,21 +4,21 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
+Undergrad at BYU majoring in Computer Science with Machine learning emphasis. Also pursuing a minor in mathmatics. I love being able to sort through seemingly unrelated bits of data and find underlying patterns and meanings in the data. 
 
-- Your academic background
+<!--- Your academic background
 - Your interest in data science
 - Your career goals
-- Any relevant experience or projects
+- Any relevant experience or projects-->
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **[Batchelors of Computer Science with Machine Learning Emphasis]** - Brigham Young University, 2026
+- **Experience with**: Statistics, Ai Agents
 
 ## Skills & Interests
 
-### Technical Skills
+### Technical Skill
 - **Programming**: Python
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
