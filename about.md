@@ -13,7 +13,7 @@ Undergrad at BYU majoring in Computer Science with Machine learning emphasis. Al
 
 ## Education
 
-- **Batchelors of Computer Science with Machine Learning Emphasis** - Brigham Young University, 2026
+- **Bachelors of Computer Science with Machine Learning Emphasis** - Brigham Young University, 2026
 - **Experience with**: Statistics, Ai Agents, ML models
 
 ## Skills & Interests
