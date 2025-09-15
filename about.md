@@ -13,17 +13,17 @@ Undergrad at BYU majoring in Computer Science with Machine learning emphasis. Al
 
 ## Education
 
-- **[Batchelors of Computer Science with Machine Learning Emphasis]** - Brigham Young University, 2026
-- **Experience with**: Statistics, Ai Agents
+- **Batchelors of Computer Science with Machine Learning Emphasis** - Brigham Young University, 2026
+- **Experience with**: Statistics, Ai Agents, ML models
 
 ## Skills & Interests
 
 ### Technical Skill
-- **Programming**: Python
+- **Programming**: Python, C++, R, HTML
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn
-- **Tools**: Jupyter Notebooks, Git/GitHub
+- **Machine Learning**: Scikit-learn, Pytorch
+- **Tools**: Jupyter Notebooks, Git/GitHub, R studios
 
 ### Areas of Interest
 - [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
